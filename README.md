@@ -10,3 +10,4 @@
 | ---------------------- | ------------------- | -------------------------------------- |
 | 1. Hashketball Review | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/01-hashketball-review) | [Video](https://youtu.be/v3UZDpajim0) |
 | 2. Intro to Object Orientation | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/02-intro-to-oo) | Videos: [part 1](https://youtu.be/0A6VNMm7bGo) & [part 2](https://youtu.be/P76diZKBVn0) |
+| 3. One to Many Relationships | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/03-one-to-many-relationships) | Videos: [part 1](https://youtu.be/zEiJ9kj2KVo) & part 2 |
