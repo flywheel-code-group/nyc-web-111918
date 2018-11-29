@@ -16,3 +16,4 @@
 | 6. Intro to Inheritance | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/06-intro-to-inheritance) | [Video](https://youtu.be/vjz6Fa087_4) |
 | 7. Many to Many Relationships Review | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/07-many-to-many-relationships-review) | Videos: [part 1](https://youtu.be/tHJduAqLbT0) & [part 2](https://youtu.be/TjJdi14u3B0) |
 | 8. Inheritance Review | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/08-inheritance-review) | Videos: [part 1](https://youtu.be/yc_fCyb-vog) & [part 2](https://youtu.be/03BgVYoX7TY) |
+| 9. Intro to SQL | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/09-intro-to-sql) | [Video](https://youtu.be/p1C3iv3SEeg) |
