@@ -17,3 +17,8 @@
 | 7. Many to Many Relationships Review | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/07-many-to-many-relationships-review) | Videos: [part 1](https://youtu.be/tHJduAqLbT0) & [part 2](https://youtu.be/TjJdi14u3B0) |
 | 8. Inheritance Review | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/08-inheritance-review) | Videos: [part 1](https://youtu.be/yc_fCyb-vog) & [part 2](https://youtu.be/03BgVYoX7TY) |
 | 9. Intro to SQL | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/09-intro-to-sql) | [Video](https://youtu.be/p1C3iv3SEeg) |
+| 10. Intro to ORM | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/10-intro-to-orm) | Video |
+| Intro to ORM (old recording) | [Code](https://github.com/learn-co-students/nyc-web-091718/tree/master/08-intro-to-orm) | [Video](https://youtu.be/u4aZLtKN9r8) |
+| 11. Active Record (Intro and Associations) | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/11-intro-to-active-record) | Video |
+| Intro to Active Record (old recording) | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/10-intro-to-active-record) | [Video](https://youtu.be/gbj-VHbZTj8) |
+| Active Record Associations (old recording) | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/11-active-record-associations) | [Video](https://youtu.be/oxHZwopTzR0) |
