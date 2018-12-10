@@ -28,4 +28,4 @@
 | Topic                  | Code                | Video                                  |
 | ---------------------- | ------------------- | -------------------------------------- |
 | 12. Intro to the Internet | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/13-intro-to-internet) | [Video](https://youtu.be/XF5N2mSfdkA) |
-| 13. Intro to Sinatra | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/14-intro-to-sinatra) | Video |
+| 13. Intro to Sinatra | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/14-intro-to-sinatra) | [Video](https://youtu.be/tp8PgqhIEeg) |
