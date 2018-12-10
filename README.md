@@ -22,3 +22,9 @@
 | 11. Active Record (Intro and Associations) | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/11-intro-to-active-record) | [Video](https://m.youtube.com/watch?v=4us08zNZe6o) |
 | >_  Intro to Active Record (old recording) | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/10-intro-to-active-record) | [Video](https://youtu.be/gbj-VHbZTj8) |
 | >_  Active Record Associations (old recording) | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/11-active-record-associations) | [Video](https://youtu.be/oxHZwopTzR0) |
+
+## Module 2
+
+| Topic                  | Code                | Video                                  |
+| ---------------------- | ------------------- | -------------------------------------- |
+| 1. Intro to the Internet | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/13-intro-to-internet) | [Video](https://youtu.be/XF5N2mSfdkA) |
