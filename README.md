@@ -29,3 +29,4 @@
 | ---------------------- | ------------------- | -------------------------------------- |
 | 12. Intro to the Internet | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/13-intro-to-internet) | [Video](https://youtu.be/XF5N2mSfdkA) |
 | 13. Intro to Sinatra | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/14-intro-to-sinatra) | [Video](https://youtu.be/tp8PgqhIEeg) |
+| 14. Intro to Sinatra | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/15-sinatra-forms/holidaytown) | [Video](https://youtu.be/yWh2BUdeJkE) |
