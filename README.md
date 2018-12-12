@@ -21,7 +21,7 @@
 | >_  Intro to ORM (old recording) | [Code](https://github.com/learn-co-students/nyc-web-091718/tree/master/08-intro-to-orm) | [Video](https://youtu.be/u4aZLtKN9r8) |
 | 11. Active Record (Intro and Associations) | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/11-intro-to-active-record) | [Video](https://m.youtube.com/watch?v=4us08zNZe6o) |
 | >_  Intro to Active Record (old recording) | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/10-intro-to-active-record) | [Video](https://youtu.be/gbj-VHbZTj8) |
-| >_  Active Record Associations (old recording) | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/11-active-record-associations) | [Video](https://youtu.be/oxHZwopTzR0) |
+| >_  Active Record Associations (old recording) | [Code](https://github.com/learn-co-students/nyc-web-100818/tree/master/11-active-record-associations) | [Video](https://youtu.be/oxHZwopTzR0)  |
 
 ## Module 2
 
@@ -30,4 +30,4 @@
 | 12. Intro to the Internet | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/13-intro-to-internet) | [Video](https://youtu.be/XF5N2mSfdkA) |
 | 13. Intro to Sinatra | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/14-intro-to-sinatra) | [Video](https://youtu.be/tp8PgqhIEeg) |
 | 14. Sinatra Forms | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/15-sinatra-forms/holidaytown) | [Video](https://youtu.be/yWh2BUdeJkE) |
-| 14. Sinatra associations| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/16-sinatra-associations/pokemans) | [Video Part1](https://youtu.be/DxeNplly818) |
+| 14. Sinatra associations| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/16-sinatra-associations/pokemans) | [Video Part 1](https://youtu.be/DxeNplly818) [Video Part 2](https://youtu.be/_Gc0idMIaaw)|
