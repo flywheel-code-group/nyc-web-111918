@@ -31,3 +31,4 @@
 | 13. Intro to Sinatra | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/14-intro-to-sinatra) | [Video](https://youtu.be/tp8PgqhIEeg) |
 | 14. Sinatra Forms | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/15-sinatra-forms/holidaytown) | [Video](https://youtu.be/yWh2BUdeJkE) |
 | 14. Sinatra associations| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/16-sinatra-associations/pokemans) | [Video Part 1](https://youtu.be/DxeNplly818) [Video Part 2](https://youtu.be/_Gc0idMIaaw)|
+| 15. Intro to Rails | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/17-intro-to-railzZ/flavortown) | [Video](https://youtu.be/pt9TjiVT6so) |
