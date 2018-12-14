@@ -32,3 +32,4 @@
 | 14. Sinatra Forms | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/15-sinatra-forms/holidaytown) | [Video](https://youtu.be/yWh2BUdeJkE) |
 | 14. Sinatra associations| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/16-sinatra-associations/pokemans) | [Video Part 1](https://youtu.be/DxeNplly818) [Video Part 2](https://youtu.be/_Gc0idMIaaw)|
 | 15. Intro to Rails | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/17-intro-to-railzZ/flavortown) | [Video](https://youtu.be/pt9TjiVT6so) |
+| 15. Rails Forms| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/18-rails-forms/coolproject) | [Video Part 1](https://youtu.be/TEHOXEi9ar0) [Part2](https://youtu.be/hf7ezQsGL3o) [Part3](https://youtu.be/aJ7xcKcQh1E)|
