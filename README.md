@@ -33,3 +33,5 @@
 | 14. Sinatra associations| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/16-sinatra-associations/pokemans) | [Video Part 1](https://youtu.be/DxeNplly818) [Video Part 2](https://youtu.be/_Gc0idMIaaw)|
 | 15. Intro to Rails | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/17-intro-to-railzZ/flavortown) | [Video](https://youtu.be/pt9TjiVT6so) |
 | 15. Rails Forms| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/18-rails-forms/coolproject) | [Video Part 1](https://youtu.be/TEHOXEi9ar0) [Part2](https://youtu.be/hf7ezQsGL3o) [Part3](https://youtu.be/aJ7xcKcQh1E)|
+| 16. Rails Associations & Forms | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/19-rails-associations) | [Video](https://youtu.be/afG9eBEj_EY) |
+| Evans's clearer, more POWERFUL video | `Kid >- Party` | [Video](https://youtu.be/h1lRaJePar8?t=2637) (starts @43:57) |
