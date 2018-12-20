@@ -35,5 +35,5 @@
 | 15. Rails Forms| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/18-rails-forms/coolproject) | [Video Part 1](https://youtu.be/TEHOXEi9ar0) [Part2](https://youtu.be/hf7ezQsGL3o) [Part3](https://youtu.be/aJ7xcKcQh1E)|
 | 16. Rails Associations & Forms | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/19-rails-associations) | [Video](https://youtu.be/afG9eBEj_EY) |
 | Evans's clearer, more POWERFUL video | `Kid >- Party` | [Video](https://youtu.be/h1lRaJePar8?t=2637) (starts @43:57) |
-| 18. Rails Validations | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/20-rails-validations/sailormoon) | [Video Part I](https://youtu.be/Kjgu6ncNeyg)[Video Part I](https://youtu.be/lDKp6U1LeHs)) |
+| 18. Rails Validations | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/20-rails-validations/sailormoon) | [Video Part I](https://youtu.be/Kjgu6ncNeyg)[Video Part II](https://youtu.be/lDKp6U1LeHs) |
 
