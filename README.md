@@ -36,4 +36,5 @@
 | 16. Rails Associations & Forms | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/19-rails-associations) | [Video](https://youtu.be/afG9eBEj_EY) |
 | Evans's clearer, more POWERFUL video | `Kid >- Party` | [Video](https://youtu.be/h1lRaJePar8?t=2637) (starts @43:57) |
 | 18. Rails Validations | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/20-rails-validations/sailormoon) | [Video Part I](https://youtu.be/Kjgu6ncNeyg)[Video Part II](https://youtu.be/lDKp6U1LeHs) |
-
+| 19. Rails Session and Cookies | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/21-rails-session) | [Video](https://www.youtube.com/watch?v=c4HjtaVTrdM&feature=youtu.be) |
+| 20. Rails Auth | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/22-rails-auth) | [Auth Part I](https://www.youtube.com/watch?v=XaGIKqg30vc&feature=youtu.be)[Auth Part II](https://www.youtube.com/watch?v=BjSs_TLIj68) |
