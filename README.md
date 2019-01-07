@@ -45,3 +45,4 @@
 | Topic                  | Code                | Video                                  |
 | ---------------------- | ------------------- | -------------------------------------- |
 | 21. Intro to Javascript | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/23-intro-to-js) | [Video](https://youtu.be/xkY7KhO1NAk) |
+| 22. Scopes, Closures, Callbacks OH MY! | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/24-scopes-closures-callbacks) | [Video](https://youtu.be/BHL_nEzHVws) |
