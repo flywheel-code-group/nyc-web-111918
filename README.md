@@ -38,3 +38,10 @@
 | 18. Rails Validations | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/20-rails-validations/sailormoon) | [Video Part I](https://youtu.be/Kjgu6ncNeyg)[Video Part II](https://youtu.be/lDKp6U1LeHs) |
 | 19. Rails Session and Cookies | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/21-rails-session) | [Video](https://www.youtube.com/watch?v=c4HjtaVTrdM&feature=youtu.be) |
 | 20. Rails Auth | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/22-rails-auth) | [Auth Part I](https://www.youtube.com/watch?v=XaGIKqg30vc&feature=youtu.be) [Auth Part II](https://www.youtube.com/watch?v=BjSs_TLIj68) |
+
+
+## Module 3
+
+| Topic                  | Code                | Video                                  |
+| ---------------------- | ------------------- | -------------------------------------- |
+| 21. Intro to Javascript | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/23-intro-to-js) | [Video](https://youtu.be/xkY7KhO1NAk) |
