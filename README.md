@@ -46,3 +46,6 @@
 | ---------------------- | ------------------- | -------------------------------------- |
 | 21. Intro to Javascript | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/23-intro-to-js) | [Video](https://youtu.be/xkY7KhO1NAk) |
 | 22. Scopes, Closures, Callbacks OH MY! | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/24-scopes-closures-callbacks) | [Video](https://youtu.be/BHL_nEzHVws) |
+| 23. Intro to DA DOM | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/25-DOM-intro) | [Video](https://youtu.be/uOuLslbMoxY) |
+| 24. Intro to Events | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/26-intro-to-events) | [Video](https://youtu.be/6n6Yscwiz98) |
+
