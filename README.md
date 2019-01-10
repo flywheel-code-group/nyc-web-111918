@@ -49,3 +49,4 @@
 | 23. Intro to DA DOM | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/25-DOM-intro) | [Video](https://youtu.be/uOuLslbMoxY) |
 | 24. Intro to Events | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/26-intro-to-events) | [Video](https://youtu.be/6n6Yscwiz98) |
 | 25. Giftr Review 📦 | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/27-giftr-review) | [Video](https://youtu.be/5-vqc9emWJs) |
+| 26. Pokemon Review 📦 | [Code](https://github.com/learn-co-students/js-pokemon-search-practice-assignment-nyc-web-111918/tree/practice) | [Video](https://youtu.be/bECbThm0bAI) |
