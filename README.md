@@ -50,3 +50,4 @@
 | 24. Intro to Events | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/26-intro-to-events) | [Video](https://youtu.be/6n6Yscwiz98) |
 | 25. Giftr Review 📦 | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/27-giftr-review) | [Video](https://youtu.be/5-vqc9emWJs) |
 | 26. Pokemon Review | [Code](https://github.com/learn-co-students/js-pokemon-search-practice-assignment-nyc-web-111918/tree/practice) | [Video](https://youtu.be/bECbThm0bAI) |
+| 27. intro-to-ajax | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/28-intro-to-AJAX) | [Video](https://youtu.be/9s9bmRrYKSs) |
