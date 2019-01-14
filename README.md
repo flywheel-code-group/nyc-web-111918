@@ -51,5 +51,5 @@
 | 25. Giftr Review 📦 | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/27-giftr-review) | [Video](https://youtu.be/5-vqc9emWJs) |
 | 26. Pokemon Review | [Code](https://github.com/learn-co-students/js-pokemon-search-practice-assignment-nyc-web-111918/tree/practice) | [Video](https://youtu.be/bECbThm0bAI) |
 | 27. intro-to-ajax | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/28-intro-to-AJAX) | [Video](https://youtu.be/9s9bmRrYKSs) |
-| 28. js-full-crud-fetch | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/29-fetch-and-dom) | [Part 1]https://youtu.be/XpSVWXfElh0) [Part 2](https://youtu.be/IA94SdKIOjE) [Part 3](https://youtu.be/HHGUoSTWHwY) |
+| 28. js-full-crud-fetch | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/29-fetch-and-dom) | [Part 1](https://youtu.be/XpSVWXfElh0) [Part 2](https://youtu.be/IA94SdKIOjE) [Part 3](https://youtu.be/HHGUoSTWHwY) |
 | 30. fetch review | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/30-fetch-review) | [Video](https://www.youtube.com/watch?v=8uAA53N0tEw&feature=youtu.be)
