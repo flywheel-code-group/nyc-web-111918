@@ -55,4 +55,5 @@
 | 30. fetch review | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/30-fetch-review) | [Video](https://www.youtube.com/watch?v=8uAA53N0tEw&feature=youtu.be)
 | 31. Functional Programming Intro 🔬🤓 | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/31-functional-programming) | [Video](https://youtu.be/4_EsfVjVuJY)
 | 32. Execution Context and `this` 🧐🤔 | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/32-execution-context-this) | [Video](https://youtu.be/7qNYFMVjZAA)
+| 33. Dog Show Review 🐕 | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/33-dog-show-review) | [Video STILL UPLOADING]()
 
