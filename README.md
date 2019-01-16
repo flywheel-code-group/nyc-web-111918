@@ -56,4 +56,4 @@
 | 31. Functional Programming Intro 🔬🤓 | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/31-functional-programming) | [Video](https://youtu.be/4_EsfVjVuJY)
 | 32. Execution Context and `this` 🧐🤔 | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/32-execution-context-this) | [Video](https://youtu.be/7qNYFMVjZAA)
 | 33. Dog Show Review 🐕 | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/33-dog-show-review) | [Video PART 1](https://youtu.be/UFLFDPDTGQM)
-
+| 34. OOJS and prototype | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/34-oojs-prototype) | [Video](https://youtu.be/t-CvqtLg3CY)
