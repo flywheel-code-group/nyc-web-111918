@@ -58,3 +58,4 @@
 | 33. Dog Show Review 🐕 | [Part 1 Code](https://github.com/learn-co-students/nyc-web-111918/tree/c3f5124972fe751ad74287344c9c476e5429ab13/33-dog-show-review) [Part 2 Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/33-dog-show-review) | [Video PART 1](https://youtu.be/UFLFDPDTGQM) [Video PART 2](https://youtu.be/pz0ad5kyFCQ)
 | 34. OOJS and prototype | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/34-oojs-prototype) | [Video](https://youtu.be/t-CvqtLg3CY)
 | 35. Rails API | [Code](https://github.com/learn-co-students/nyc-web-082718/tree/master/36-rails-api/nacho_factory) | [Video](https://www.youtube.com/watch?v=nmRUVxtfG9E&feature=youtu.be)
+| 36. JS es6 syntax | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/36-es6-modern-js) | [Video](https://youtu.be/00ZYn-AJVs4)
