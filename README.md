@@ -59,3 +59,11 @@
 | 34. OOJS and prototype | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/34-oojs-prototype) | [Video](https://youtu.be/t-CvqtLg3CY)
 | 35. Rails API | [Code](https://github.com/learn-co-students/nyc-web-082718/tree/master/36-rails-api/nacho_factory) | [Video](https://www.youtube.com/watch?v=nmRUVxtfG9E&feature=youtu.be)
 | 36. JS es6 syntax | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/36-es6-modern-js) | [Video](https://youtu.be/00ZYn-AJVs4)
+
+## Module 4
+
+| Topic                  | Code                | Video                                  |
+| ---------------------- | ------------------- | -------------------------------------- |
+| 37. React prerequisites | [Code N/A]() | [Video](https://www.youtube.com/watch?v=JAvczGi8DIA&feature=youtu.be) |
+| 38. Introduction to React | [Code] (https://github.com/learn-co-students/nyc-web-111918/tree/master/37-introduction-to-react) | [Video](https://www.youtube.com/watch?v=BFlKDxn2u_c&feature=youtu.be) |
+| 39. `this` keyword review | [Code N/A]() | [Video](https://www.youtube.com/watch?v=RR-50beZk3g&feature=youtu.be) |
