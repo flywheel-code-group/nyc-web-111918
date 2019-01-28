@@ -65,5 +65,5 @@
 | Topic                  | Code                | Video                                  |
 | ---------------------- | ------------------- | -------------------------------------- |
 | 37. React prerequisites | [Code N/A]() | [Video](https://www.youtube.com/watch?v=JAvczGi8DIA&feature=youtu.be) |
-| 38. Introduction to React | [Code] (https://github.com/learn-co-students/nyc-web-111918/tree/master/37-introduction-to-react) | [Video](https://www.youtube.com/watch?v=BFlKDxn2u_c&feature=youtu.be) |
+| 38. Introduction to React | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/37-introduction-to-react) | [Video](https://www.youtube.com/watch?v=BFlKDxn2u_c&feature=youtu.be) |
 | 39. `this` keyword review | [Code N/A]() | [Video](https://www.youtube.com/watch?v=RR-50beZk3g&feature=youtu.be) |
