@@ -70,6 +70,7 @@
 | 40. Thinking in React | [Code](https://github.com/critsmet/react-pokemon) | [Video](https://youtu.be/gmz8Q620ccs) |
 | 41. Controlled inputs review | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/40-controlled-inputs)/[Code REPL](https://repl.it/repls/PastMadeupDecagon) | [Video](https://www.youtube.com/watch?v=hlAFs0FRKaU&feature=youtu.be) |
 | 42. React lifecycle methods| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/41-lcm-demo) | [Video](https://www.youtube.com/watch?v=7EAGcXCGv7E&feature=youtu.be) |
+| 43. Hogs part I review| [Code](https://github.com/learn-co-students/ncy-mhtn-web-111918-hogswarts) | [Video](https://www.youtube.com/watch?v=TivFjDGE-NI&feature=youtu.be) |
 
 
 
