@@ -72,6 +72,8 @@
 | 42. React lifecycle methods| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/41-lcm-demo) | [Video](https://www.youtube.com/watch?v=7EAGcXCGv7E&feature=youtu.be) |
 | 43. Hogs part I review| [Code](https://github.com/learn-co-students/ncy-mhtn-web-111918-hogswarts) | [Video](https://www.youtube.com/watch?v=TivFjDGE-NI&feature=youtu.be) |
 | 44. Sushi Mock Code Challenge Review| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/42-React-Practice-Code-Challenge) | [Video](https://www.youtube.com/watch?v=MA8WvCWQqgg&feature=youtu.be) |
+| 45. React Router| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/43-router-sample-app) | [Video](https://www.youtube.com/watch?v=NH2hAOqVq5E&feature=youtu.be) |
+| 46. React HOC | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/44-hoc-sample) | [Video Coming Soon]() |
 
 
 
