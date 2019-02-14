@@ -62,6 +62,8 @@
 
 ## Module 4
 
+##### [Redux Terminilogy Cheatsheet](https://gist.github.com/alexgriff/0e247dee73e9125177d9c04cec159cc6)
+
 | Topic                  | Code                | Video                                  |
 | ---------------------- | ------------------- | -------------------------------------- |
 | 37. React prerequisites | [Code N/A]() | [Video](https://www.youtube.com/watch?v=JAvczGi8DIA&feature=youtu.be) |
@@ -74,6 +76,7 @@
 | 44. Sushi Mock Code Challenge Review| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/42-React-Practice-Code-Challenge) | [Video](https://www.youtube.com/watch?v=MA8WvCWQqgg&feature=youtu.be) |
 | 45. React Router| [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/43-router-sample-app) | [Video](https://www.youtube.com/watch?v=NH2hAOqVq5E&feature=youtu.be) |
 | 46. React HOC | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/44-hoc-sample) | [Video](https://www.youtube.com/watch?v=k8jvfom4H0Q&feature=youtu.be) |
+| 47. Intro to Redux | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/45-intro-to-redux) | [Video (from 103017)](https://www.youtube.com/watch?v=UZT7OCDcgOw&feature=youtu.be) |
 
 
 
