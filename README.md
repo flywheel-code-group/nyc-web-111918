@@ -78,7 +78,7 @@
 | 47. Intro to Redux | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/45-intro-to-redux) | [Video (from 103017)](https://www.youtube.com/watch?v=UZT7OCDcgOw&feature=youtu.be) |
 | 48. React & Redux | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/46-react-and-redux) | [Video](https://www.youtube.com/watch?v=EXv2tB-nYL0&feature=youtu.be) |
 | 49. Async Redux (Weekend Homework) | [Code](https://github.com/learn-co-students/web-103017/tree/master/34_thunk_exercise) / [Backend Code](https://github.com/alexgriff/painting-example-app-backend/tree/master) | [Video](https://www.youtube.com/watch?v=KiUQc8znq1c&feature=youtu.be) |
-| 50. **Optional** DIY Redux | [Code](https://github.com/learn-co-students/web-103017/tree/diy/32_redux/redux-prep) (diy branch) | [Video](https://www.youtube.com/watch?v=mhr4ssWNuNA&feature=youtu.be) |
+| 50. **Optional** DIY Redux | [Code (on 'diy' branch)](https://github.com/learn-co-students/web-103017/tree/diy/32_redux/redux-prep) | [Video](https://www.youtube.com/watch?v=mhr4ssWNuNA&feature=youtu.be) |
  
 
 #### [Link to Redux Terminology Cheatsheet](https://gist.github.com/alexgriff/0e247dee73e9125177d9c04cec159cc6)
