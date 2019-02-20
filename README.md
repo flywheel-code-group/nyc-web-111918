@@ -79,7 +79,7 @@
 | 48. React & Redux | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/46-react-and-redux) | [Video](https://www.youtube.com/watch?v=EXv2tB-nYL0&feature=youtu.be) |
 | 49. Async Redux (Weekend Homework) | [Code](https://github.com/learn-co-students/web-103017/tree/master/34_thunk_exercise) / [Backend Code](https://github.com/alexgriff/painting-example-app-backend/tree/master) | [Video](https://www.youtube.com/watch?v=KiUQc8znq1c&feature=youtu.be) |
 | 50. **Optional** DIY Redux | [Code (on 'diy' branch)](https://github.com/learn-co-students/web-103017/tree/diy/32_redux/redux-prep) | [Video](https://www.youtube.com/watch?v=mhr4ssWNuNA&feature=youtu.be) |
-| 51. Hashketball Returns! | [Code)](https://github.com/learn-co-students/nyc-web-111918/tree/master/47-hashketball-returns) | [Video](https://youtu.be/WlS-BUOXlpc) |
+| 51. Hashketball Returns! | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/47-hashketball-returns) | [Video](https://youtu.be/WlS-BUOXlpc) |
  
 
 #### [Link to Redux Terminology Cheatsheet](https://gist.github.com/alexgriff/0e247dee73e9125177d9c04cec159cc6)
