@@ -81,7 +81,7 @@
 | 50. **Optional** DIY Redux | [Code (on 'diy' branch)](https://github.com/learn-co-students/web-103017/tree/diy/32_redux/redux-prep) | [Video](https://www.youtube.com/watch?v=mhr4ssWNuNA&feature=youtu.be) |
 | 51. Hashketball Returns! | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/47-hashketball-returns) | [Video](https://youtu.be/WlS-BUOXlpc) |
 | 52. Sockets: ActionCable & React | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/48-websockets) | [Video](https://www.youtube.com/watch?v=ie-XITL3kWE&feature=youtu.be) |
-| 53. React Auth | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/49-auth) | [Video](https://youtu.be/pP1ycWi-TQs) |
+| 53. React Auth | [Code](https://github.com/learn-co-students/nyc-web-111918/tree/master/49-auth) | [Video](https://www.youtube.com/watch?v=pP1ycWi-TQs) |
  
 
 #### [Link to Redux Terminology Cheatsheet](https://gist.github.com/alexgriff/0e247dee73e9125177d9c04cec159cc6)
